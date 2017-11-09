@@ -1,3 +1,5 @@
+https://github.com/twright-msft/azure-content/blob/master/articles/sql-database/sql-database-migration-wizard.md
+
 <properties 
    pageTitle="Use the SQL Azure Migration Wizard | Microsoft Azure" 
    description="Microsoft Azure SQL Database, database migration, import database, export database, migration wizard" 
